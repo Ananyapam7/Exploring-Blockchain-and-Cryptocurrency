@@ -27,5 +27,6 @@ This repository is organized into various folders, each serving a distinct purpo
 
 - `MITM`: Implementation of a simple Man in the Middle Attack
 - `Smart Contract`: A basic etherium contract for storing user data on blockchain.
+- Project Report: Contains a thorough Vulnerability Analysis of Blockchain and Tangle
 
 Feel free to navigate through the repository to explore the project in detail. Feedback and contributions are always welcome!
